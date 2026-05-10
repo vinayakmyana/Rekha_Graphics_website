@@ -79,9 +79,7 @@ export function TestimonialsSection() {
             />
           ))}
         </div>
-        <p className="mt-6 text-center font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">
-          Placeholder quotes — to be replaced with attributed testimonials.
-        </p>
+       
       </div>
     </section>
   );
