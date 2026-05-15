@@ -47,7 +47,7 @@ export function HeroSection() {
           >
             A premium manufacturer of self-adhesive labels, industrial stickers and paper
             gaskets. ISO-certified processes, in-house customization, and a team that
-            takes “Trust in every stick” personally.
+            takes “Trust in every sticker” personally.
           </motion.p>
 
           <motion.div
