@@ -1,6 +1,6 @@
 export const company = {
   name: "Rekha Graphics",
-  tagline: "Trust in every stick.",
+  tagline: "Trust in every sticker.",
   established: 2001,
   description: "All Types of Stickers Manufacturing Company",
   founder: {
