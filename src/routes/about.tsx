@@ -37,7 +37,7 @@ function AboutPage() {
             <>
               A workshop in Ahilyanagar.{" "}
               <span className="text-muted-foreground">
-                A two-decade obsession with stick.
+                A two-decade obsession with sticker.
               </span>
             </>
           }
