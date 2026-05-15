@@ -12,7 +12,7 @@ export function AboutSummarySection() {
             title={
               <>
                 A quiet workshop in Ahilyanagar.{" "}
-                <span className="text-muted-foreground">Two decades of stick.</span>
+                <span className="text-muted-foreground">Two decades of sticker.</span>
               </>
             }
           />
